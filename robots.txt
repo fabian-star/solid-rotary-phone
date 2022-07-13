@@ -1,9 +1,9 @@
 User-agent: *
-Disallow: /1
-Disallow: /2
-Disallow: /3
-Disallow: /4
-Disallow: /5
-Disallow: /6
-Disallow: /7
-Disallow: /8
+Disallow: /1-R7qO5&7014Ex.html
+Disallow: /2-PWka0xQ!P8K9.html
+Disallow: /3-PWka0xQ!P8K9.html
+Disallow: /4-6!C5ZDok6L@J.html
+Disallow: /5-5!r*zp%4G4FZ.html
+Disallow: /6-qh2&zQ8Z34x2.html
+Disallow: /7-07uWS%5o5$7m.html
+Disallow: /8-&oDMXDb247Z9.html
