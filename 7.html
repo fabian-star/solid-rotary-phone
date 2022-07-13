@@ -1,0 +1,23 @@
+<html>
+<head>
+	<title>Secret!</title>
+</head>
+<body>
+<script type="text/javascript">
+var password = "9781684512935" ;
+var message = "Password";
+var incmess = "Incorrect password, you have been denied! Try again later.";
+var minimizemsg = "Hi there!"
+var pw = prompt (message,"");
+
+if (pw != password) {
+          alert (incmess);
+          window.open("./", "_self")
+        } else {
+          alert ("Well done, you may continue!", "_self");
+          window.open("/9781684512935/", "_self")
+        }
+
+</script>
+</body>
+</html>
