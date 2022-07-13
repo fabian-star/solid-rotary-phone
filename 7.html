@@ -5,8 +5,8 @@
 <body>
 <script type="text/javascript">
 var password = "9781684512935" ;
-var message = "Password";
-var incmess = "Incorrect password, you have been denied! Try again later.";
+var message = "Enter the 13-digit password below.";
+var incmess = "Incorrect password, you have been denied! Try again.";
 var minimizemsg = "Hi there!"
 var pw = prompt (message,"");
 
@@ -14,7 +14,7 @@ if (pw != password) {
           alert (incmess);
           window.open("6.html", "_self")
         } else {
-          alert ("Well done, you may continue!", "_self");
+          alert ("Correct password!!", "_self");
           window.open("8.html", "_self")
         }
 
